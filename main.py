@@ -7,7 +7,7 @@ from mavsdk import System
 import asyncio
 
 
-# Research FAIL-SAFE mode.
+
 
 async def return_home(drone):
 
